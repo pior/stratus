@@ -1,2 +1,3 @@
-# stratus
+# Stratus
+
 System Status Service 
